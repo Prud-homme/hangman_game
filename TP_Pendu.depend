@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1608044142 source:/home/florent/Documents/Projets/05_Cours_C/TP_Pendu/input.c
+	<stdio.h>
+	<stdlib.h>
+	"input.h"
+
+1608044142 /home/florent/Documents/Projets/05_Cours_C/TP_Pendu/input.h
+
+1608050616 source:/home/florent/Documents/Projets/05_Cours_C/TP_Pendu/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"input.h"
+	"motcache.h"
+
+1608050338 source:/home/florent/Documents/Projets/05_Cours_C/TP_Pendu/motcache.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1608048222 /home/florent/Documents/Projets/05_Cours_C/TP_Pendu/motcache.h
+
